@@ -1,4 +1,4 @@
-    <div style="
+<div style="
             background-color: #000;
             color: #fff;
             font-family: 'Chivo Mono', monospace;
@@ -7,7 +7,6 @@
             justify-content: center;
             align-items: center;
     " class="container">
-
     </div>
     <h1>Hello, I am Roy Waswa</h1>
     <a href="https://git.io/typing-svg">
@@ -20,4 +19,4 @@
         at the Jomo Kenyatta University of Agriculture and technology. 
         I am a self taught web developer and an aspiring data scientist.
     </p>
-    </div>
+</div>
