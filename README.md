@@ -1,33 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Roy Waswa</title>
-    <style>
-        body{
-            background-color: #000;
-            color: #fff;
-            font-family: 'Chivo Mono', monospace;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
-        h1{
-            font-size: 3rem;
-            text-align: center;
-        }
-        p{
-            font-size: 1.5rem;
-            text-align: center;
-        }
-        a{
-            text-decoration: none;
-        }
-    </style>
-</head>
 <body>
     <div style="
             background-color: #000;
@@ -38,7 +8,6 @@
             justify-content: center;
             align-items: center;
     " class="container">
-    </div>
     <h1>Hello, I am Roy Waswa</h1>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Front-end+web+developer+in+Reactjs;Aspiring+data+scientist+in+Python+and+R;Full+time+Geek" 
@@ -155,5 +124,5 @@
             </div>
         </div>
     </div>
+    </div>
 </body>
-</html>
