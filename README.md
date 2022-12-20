@@ -12,3 +12,6 @@
 - Currently learning Data Science in R
 - Personal website [link](https://roywaswa.tech)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/roywaswa)
+
+![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=roywaswa&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roywaswa)
