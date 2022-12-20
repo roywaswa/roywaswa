@@ -1,13 +1,23 @@
-- 👋 Hi, I’m @roywaswa
-- 👀 I’m interested in a lot ... that is the basic description. You name it, 
--   backend development
--   frontend development 
--   data science 
--   machine learning
-- 🌱 I’m currently learning data science at Datacamp 
-- 💞️ I’m looking to collaborate on any project you have in mind.
+    <div style="
+            background-color: #000;
+            color: #fff;
+            font-family: 'Chivo Mono', monospace;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+    " class="container">
 
-<!---
-roywaswa/roywaswa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    </div>
+    <h1>Hello, I am Roy Waswa</h1>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Front-end+web+developer+in+Reactjs;Aspiring+data+scientist+in+Python+and+R;Full+time+Geek" 
+        alt="Typing SVG" />
+    </a>
+    <!-- ABOUT ME -->
+    <p>
+        I am a third year student taking GIS(Geospartial Information Science)
+        at the Jomo Kenyatta University of Agriculture and technology. 
+        I am a self taught web developer and an aspiring data scientist.
+    </p>
+    </div>
