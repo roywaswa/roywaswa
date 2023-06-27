@@ -24,11 +24,9 @@ Wow, you've actually made it through all of that! That's pretty impressive. So, 
 
 Other things I know
 
-<img src="./icons/typescript.svg" height=100 />
-<img src="./icons/react.svg" height=100 />
+<img src="./icons/typescript.svg" height=100 /><img src="./icons/react.svg" height=100 />
 </br>
-<img src="./icons/tidyverse.svg" height=100 />
-<img src="./icons/pandas.svg" height=100 />
+<img src="./icons/tidyverse.svg" height=100 /><img src="./icons/pandas.svg" height=100 />
 </br>
 <img src="./icons/autodesk.svg" height=100 />
 
