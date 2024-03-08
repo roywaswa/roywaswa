@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hello, I'm Roy Waswa</b></h1>
 
-I am a student at **Jomo Kenyatta University of Agriculture and Technology** in _Nairobi_, Kenya. Currently juggling my studies in Geomatics Engineering and GIS while interning at The Open Institute. You'll usually find me geeking out over **GIS, Remote Sensing, and Data analytics**.
+I am a student at **Jomo Kenyatta University of Agriculture and Technology** in _Nairobi_, Kenya. Currently juggling my studies in Geomatics Engineering and a Photography hobby that I have been developing. You'll usually find me geeking out over **GIS, Remote Sensing, and Data analytics**.
 
 <h2 align="center"><b>What I'm into</b></h2>
 I've got quite the skill set, but here's what I'm particularly good at:
